@@ -21,6 +21,7 @@ def zigzag_conversion(s:str,numRows:int):
         i += flag
     return "".join(res)
 
+#test
 s='leetcode'
 num=3
 print(zigzag_conversion(s,num))

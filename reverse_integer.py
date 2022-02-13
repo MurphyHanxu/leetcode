@@ -19,6 +19,3 @@ def reserve_integer(z:int):
         ans = ans * 10 + digit
     return ans
 
-#test
-z=2**32
-print(reserve_integer(z))

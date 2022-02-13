@@ -12,4 +12,16 @@
 本题中的空白字符只包括空格字符 ' ' 。
 除前导空格或数字后的其余字符串外，请勿忽略 任何其他字符。
 '''
-def string_to_integer_atoi(s:string):
+import re
+def string_to_integer_atoi(s):
+    INT_MAX = 2147483647
+    INT_MIN = -2147483648
+    s = s.lstrip()  # 清除左边多余的空格
+    num_re = re.compile(r'^[\+\-]?\d+')  # 设置正则规则
+    num = num_re.findall(s)  # 查找匹配的内容
+    num = int(*num)  # 由于返回的是个列表，解包并且转换成整数
+    return max(min(num, INT_MAX), INT_MIN)  # 返回值
+
+s='00254yuersxj os7839'
+a=string_to_integer_atoi(s)
+print(a)

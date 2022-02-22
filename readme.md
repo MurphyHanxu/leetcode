@@ -12,5 +12,6 @@
 | 10   | [正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/) | [010regular_expression_matching](https://github.com/101haizailache/leetcode/blob/master/regular_expression_matching.py) |
 | 11   | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | [011container_with_most_water](https://github.com/101haizailache/leetcode/blob/master/container_with_most_water.py) |
 | 12   | [整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman/) | [012integer_to_roman](https://github.com/101haizailache/leetcode/blob/master/integer_to_roman.py) |
-| 13   | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) |                                                              |
+| 13   |                                                              |                                                              |
+| 14   | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | [014longest_common_prefix](https://github.com/101haizailache/leetcode/blob/master/longest_common_prefix.py) |
 

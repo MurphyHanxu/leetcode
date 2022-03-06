@@ -14,5 +14,8 @@
 | 12   | [整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman/) | [012integer_to_roman](https://github.com/101haizailache/leetcode/blob/master/integer_to_roman.py) |
 | 13   | [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/) | [013roman_to_integer](https://github.com/101haizailache/leetcode/blob/master/roman_to_integer.py) |
 | 14   | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | [014longest_common_prefix](https://github.com/101haizailache/leetcode/blob/master/longest_common_prefix.py) |
-| 15   | [三数之和为零](https://leetcode-cn.com/problems/3sum/)       | 015                                                          |
+| 15   | [三数之和为零](https://leetcode-cn.com/problems/3sum/)       | [0153sum](https://github.com/101haizailache/leetcode/blob/master/3sum.py) |
+| 16   | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | [0163sum_closest](https://github.com/101haizailache/leetcode/blob/master/3sum_closest.py) |
+| 17   | [电话号码的数字之和](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [017letter_combinations_of_a_phone_number](https://github.com/101haizailache/leetcode/blob/master/letter_combinations_of_a_phone_number.py) |
+| 18   |                                                              |                                                              |
 

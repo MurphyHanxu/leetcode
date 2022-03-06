@@ -8,6 +8,7 @@
 
 
 def sum(list):
+    '''双指针法'''
     list.sort()
     ans = []
     i = 0
